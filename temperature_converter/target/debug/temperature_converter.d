@@ -1,0 +1,1 @@
+/run/media/alan/DATA/Documents/3_FOR_ME/Courses/RUST_Review/temperature_converter/target/debug/temperature_converter: /run/media/alan/DATA/Documents/3_FOR_ME/Courses/RUST_Review/temperature_converter/src/main.rs
